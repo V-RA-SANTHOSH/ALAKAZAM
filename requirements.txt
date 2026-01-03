@@ -1,6 +1,6 @@
 langchain-groq
-langchain-community
+langchain-community==0.0.38
 langgraph
 streamlit
-duckduckgo-search==6.2.13
+duckduckgo-search==5.3.0
 python-dotenv
